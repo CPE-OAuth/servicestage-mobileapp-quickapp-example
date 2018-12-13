@@ -1,0 +1,73 @@
+<!--
+ * Copyright 2018 Huawei Technologies Co., Ltd. All rights reserved.
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ * -->
+ <template>
+      <list onscrollbottom="refreshList">
+      <list-item class="content_item" for="{{dataList}}" type="item_content">
+      <image src="{{$item.photo.url}}" style="width:220px;height:180px;margin-right:20px"></image>
+      <div style="flex-direction: column">
+      <text style="font-size:40px;font-weight:bold">{{$item.name}}</text>
+      <text style="font-size:30px;">{{$item.description}}</text>
+      </div>
+      </list-item>
+      </list>
+</template>
+
+<style>
+  .demo-page {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .title {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .content_item {
+  padding: 20px;
+  border-bottom-width: 2px;
+  }
+  .nav_tab_list:active {
+  color: #38b337
+  }
+
+</style>
+
+<script>
+import ParseUtil from './../Common/parseutil'
+import fetch from '@system.fetch'
+
+
+export default {
+    private: {
+      dataList: [
+    ]
+    },
+    onReady: function () {
+      console.debug("onReady data"+this.dataList);
+    },
+    onInit: function () {
+      ParseUtil.getTopRatedDetails((results) => {
+      this.dataList = results;
+       console.debug("onInit data"+this.dataList);
+    });
+    },
+    onMenuPress() {
+      this.$app.$def.showMenu()
+    }
+  }
+</script>
