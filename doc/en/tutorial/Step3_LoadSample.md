@@ -30,11 +30,11 @@ Follow the steps below to load a Quick App Mobile Application Sample from Github
 ```
    ![s3e.png](./imgs/s3e.png)
  
-   After compilation and packaging is successful,  a ìbuildî folder and a ìdistî folder will be generated under the project root directory.
+   After compilation and packaging is successful,  a ‚Äúbuild‚Äù folder and a ‚Äúdist‚Äù folder will be generated under the project root directory.
 
-   Build folder contains temporary output, including compiled page js, images, etc.
+   * **Build folder** contains temporary output, including compiled page js, images, etc.
 
-   Dist folder contains The final release, including the rpk file. The resources in the build directory are packaged and compressed into a file with the suffix named rpk. This rpk file is the final output of the project after compilation.  
+   * **Dist folder** contains The final release, including the rpk file. The resources in the build directory are packaged and compressed into a file with the suffix named rpk. This rpk file is the final output of the project after compilation.  
 ![s3f.png](./imgs/s3f.png)
  
    To know more details and features of Fast app IDE, please refer to [https://developer.huawei.com/consumer/cn/service/hms/doc/fastapp_fastapp_devtool1_guide.html](https://developer.huawei.com/consumer/cn/service/hms/doc/fastapp_fastapp_devtool1_guide.html)
