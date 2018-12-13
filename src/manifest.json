@@ -1,0 +1,75 @@
+{
+  "package": "com.application.quickeats",
+  "name": "quickeats",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "101",
+  "icon": "/Common/logo.png",
+  "features": [
+    { "name": "system.prompt" },
+    { "name": "system.router" },
+    { "name": "system.shortcut" }
+  ],
+  "permissions": [
+    { "origin": "*" }
+  ],
+  "config": {
+    "logLevel": "debug"
+  },
+  "router": {
+    "entry": "Login",
+    "pages": {
+      "Login": {
+        "component": "index"
+      },
+      "Signup": {
+        "component": "index"
+      },
+      "Restaurants": {
+        "component": "index"
+      },
+      "TopRated": {
+        "component": "index"
+      },
+      "Offers": {
+        "component": "index"
+      },
+      "Menu": {
+        "component": "index"
+      },
+      "About": {
+        "component": "index"
+      }
+    }
+  },
+  "display": {
+    "titleBarBackgroundColor": "#f2f2f2",
+    "titleBarTextColor": "#414141",
+    "menu": true,
+    "pages": {
+      "Login": {
+        "menu": false,
+        "titleBar":false
+      },
+      "Signup": {
+        "menu": false,
+        "titleBar":false
+      },
+      "Restaurants": {
+        "titleBarText": "Restaurants"
+      },
+      "TopRated": {
+        "titleBarText": "Top Rated"
+      },
+      "Offers": {
+        "titleBarText": "Offers"
+      },
+      "Menu": {
+        "titleBarText": "Menu"
+      },
+      "About": {
+        "titleBarText": "About"
+      }
+    }
+  }
+}
