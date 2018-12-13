@@ -14,4 +14,6 @@ You have the Mobile Application described in this tutorial.  It is time to conne
 
 5.  Save the file.  
 
+6.  Open Windows Command Prompt, go to project root folder and run ‘npm run build’ in to rebuild the project.
+
   
