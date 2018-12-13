@@ -18,7 +18,7 @@ We can also use an emulator (Android Virtual Device) from Android Studio to run 
 ![s8a](./imgs/s8a.png)
 
 6.	Select **KitKat, API Level 19, armabi-v7a, Android 4.4.** If the Download link is enabled, click Download to install the image first; otherwise, click **Next.**  
-![s8b](./imgs/s8b.png)
+![s8b](./imgs/s8b.jpg)
 
 7.	Click **Finish** to add the new emulator.  
 ![s8c](./imgs/s8c.png)
@@ -29,7 +29,7 @@ We can also use an emulator (Android Virtual Device) from Android Studio to run 
 ![s8d](./imgs/s8d.png)
 
 10.	 Here is how the emulator looks like.  
-![s8e](./imgs/s8e.png)
+![s8e](./imgs/s8e.jpg)
 
 11.	Setup proxy for emulator so that the mobile applications can access the internet. Click on **…** in vertical bar to open up **Extended Controls**. Go to **Settings -> Proxy** to setup proxy:  
-![s8f](./imgs/s8f.png)
+![s8f](./imgs/s8f.jpg)

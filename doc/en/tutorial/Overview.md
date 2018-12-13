@@ -4,4 +4,4 @@ Huawei Mobile Backend is a Huawei Public Cloud service.  A user can create this 
 
 The following diagrams show the usage of Huawei Mobile Backend.  Start by creating a new service from ServiceStage, develop your mobile application and configure mobile backend, then publish the mobile application to different platforms and use it on your mobile phone.  
 
-![Overview](./imgs/s0a.png)
+![Overview](./imgs/s0a.jpg)

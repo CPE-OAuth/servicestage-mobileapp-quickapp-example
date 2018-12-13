@@ -17,11 +17,11 @@ Follow the steps below to load a Quick App Mobile Application Sample from Github
 5.	For Win64: Click DevecoFastAppIDE-V1.1.8-Win64.exe to install.
 
 6.	After the installation, launch the IDE and click on File->open project. Select the project root folder to import the project into Fast App IDE.
-![s3c.png](./imgs/s3c.png)
+![s3c.jpg](./imgs/s3c.jpg)
 
    You may get Symantec Anti-virus warnings after installing the IDE. This message can be ignored.
    
-   ![s3d.png](./imgs/s3d.png)
+   ![s3d.jpg](./imgs/s3d.jpg)
 
 7.  In the IDE Terminal view, run the below command from the project root directory to compile the project.
 

@@ -12,15 +12,15 @@ After you successfully setup emulator in Android studio. Follow the instructions
    .\adb.exe install {{path to}}\quickapp_debugger.apk
    .\adb.exe install {{path to}}\quickapp_platform_preview_release_v1030.apk
 ```
-![s9a](./imgs/s9a.png)
+![s9a](./imgs/s9a.jpg)
 
    Here is the emulator with the apks installed.  
-![s9b](./imgs/s9b.png)
+![s9b](./imgs/s9b.jpg)
 
 4.	Copy QuickEats Sample Application rpk file in Step 7 to emulator. You can use the public file storage service, such as Huawei Object Storage, to transfer this file to emulator.
 
 5.	In emulator launch QuickApp Debugger.  
-![s9c](./imgs/s9c.png)
+![s9c](./imgs/s9c.jpg)
 
 6.  Click **INSTALL WITH FILE**, and select the com.application.quickeats.debug.rpk from Downloads. QuickEats Sample Application is installed successfully.
 

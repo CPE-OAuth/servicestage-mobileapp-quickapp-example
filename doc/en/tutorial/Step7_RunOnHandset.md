@@ -13,7 +13,7 @@ To run the mobile application in the handset you need to install the Fast Applic
    After copying the apk files to your handset, Click on the apk file install the apps.
    
 3.	After Installation of platform and debugger, open the debugger on your phone.  
-![s7c](./imgs/s7c.png)
+![s7c](./imgs/s7c.jpg)
 
    **Note:** If you can't click the button when you open the debugger, please upgrade your phone system to the latest version.  
 ![s7d](./imgs/s7d.png)
