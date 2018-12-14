@@ -19,19 +19,21 @@
     <text id="desc">{{desc}}</text>
 
     <div class="detail detail-first">
-      <text class="detail-title">Frontend</text>
-      <text class="detail-content">QuickApp</text>
+      <text class="detail-content">Find the best restaurants, cafes and bars</text>
     </div>
     <div class="detail">
-      <text class="detail-title">Backend</text>
-      <text class="detail-content">Quick Eats</text>
+     <text class="detail-content">BEST OFFERS.GUARANTEED</text>
     </div>
   </div>
 </template>
 
 <style>
   .demo-page {
+    margin-top: 90px;
     flex-direction: column;
+    align-items: center;
+    font-size: 28px;
+    color: #2a9700;
     align-items: center;
   }
 
@@ -41,12 +43,18 @@
     height: 134px;
     border-radius: 10px;
     border: 1px solid #8d8d8d;
+    align-items: center;
   }
 
   #name {
-    margin-top: 20px;
-    font-size: 36px;
-    color: #000000;
+    font-size: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-color:#4169e1;
+    color:#ff0000;
+    border-bottom-width: 2px;
   }
 
   #tags {
@@ -59,6 +67,7 @@
     padding-right: 20px;
     font-size: 28px;
     color: #2a9700;
+    align-items: center;
   }
 
   .gap {
@@ -67,24 +76,29 @@
   }
 
   #desc {
-    width: 650px;
-    margin-top: 40px;
-    line-height: 35px;
-    font-size: 25px;
-    color: #8d8d8d;
+   font-size: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-color:#4169e1;
+    color:#050505;
+    border-bottom-width: 2px;
   }
 
   .detail {
     width: 650px;
     height: 90px;
     border-bottom-width: 1px;
-    border-bottom-color: #f0f0f0;
+    border-bottom-color: #7392d6;
+    justify-content: center;
   }
 
   .detail-first {
     margin-top: 65px;
     border-top-width: 1px;
-    border-top-color: #f0f0f0;
+    border-top-color: #7392d6;
+    justify-content: center;
   }
 
   .detail-title {
@@ -92,11 +106,14 @@
     padding-left: 10px;
     font-size: 25px;
     color: #000000;
+    text-align: center;
   }
 
   .detail-content {
-    font-size: 25px;
-    color: #8d8d8d;
+    font-size: 35px;
+    color: #2bc40c;
+    text-align: center;
+    justify-content: center;
   }
 
   .btn {
@@ -125,7 +142,7 @@
       name: 'Quick Eats'
     },
     private: {
-      desc: 'This is Quick Eats demo app using Quick App Framework'
+      desc: 'Welcome to Quick Eats'
     },
     onInit () {
       this.$page.setTitleBar({ text: this.name })
