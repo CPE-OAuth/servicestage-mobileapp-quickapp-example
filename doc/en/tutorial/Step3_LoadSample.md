@@ -28,7 +28,7 @@ Follow the steps below to load a Quick App Mobile Application Sample from Github
    
 7. In Fast Application IDE, on the top menu, use **Buid -> Run Build** to compile and build the project.
 
-After compilation and packaging is successful,  a ìbuildî folder and a ìdistî folder will be generated under the project root directory.
+After compilation and packaging is successful,  a ‚Äúbuild‚Äù folder and a ‚Äúdist‚Äù folder will be generated under the project root directory.
 *	**Build folder** contains temporary output, including compiled page js, images, etc.
 *	**Dist folder** contains the final release, including the rpk file. The resources in the build directory are packaged and compressed into a file with the suffix named rpk. This rpk file is the final output of the project after compilation.  
-![s3f.jpg](./imgs/s3f.jpg)
+![s3f.JPG](./imgs/s3f.JPG)
