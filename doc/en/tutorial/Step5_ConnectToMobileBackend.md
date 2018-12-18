@@ -1,4 +1,4 @@
-## Step 6:  Connect Mobile App to Huawei Mobile Backend
+## Step 5:  Connect Mobile App to Huawei Mobile Backend
 
 You have the Mobile Application described in this tutorial.  It is time to connect to Huawei Mobile Backend in Public Cloud.
 

@@ -1,4 +1,4 @@
-## Step 5:  (Optional) Build Mobile App using React Native
+## Step 9:  (Optional) Build Mobile App using Quick App
 
 This step explain how to build the Mobile application sample using Quick App described in this tutorial.
  

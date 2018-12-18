@@ -118,7 +118,7 @@
             "objectId": "OUwzpuba41",
             "photo": {
                 "__type": "File",
-                "name": "1541762703716.jpg"
+                "name": "offers1.PNG"
             },
 			"restaurant": {
 				"__type": "Pointer",
@@ -135,7 +135,7 @@
             "objectId": "APwuJFxzXX",
             "photo": {
                 "__type": "File",
-                "name": "box8-50-percent-off-848x470.jpg"
+                "name": "offers2.PNG"
             },
 			"restaurant": {
 				"__type": "Pointer",
@@ -152,7 +152,7 @@
             "objectId": "W5B7cxb8sU",
             "photo": {
                 "__type": "File",
-                "name": "GMFaVYnDiiOUAdFIsiCoEjbBy1JPKy4s.jpg"
+                "name": "offers3.PNG"
             },
 			"restaurant": {
 				"__type": "Pointer",
@@ -169,7 +169,7 @@
             "objectId": "Cu6eGsaaPe",
             "photo": {
                 "__type": "File",
-                "name": "images.jpg"
+                "name": "offers4.PNG"
             },
 			"restaurant": {
 				"__type": "Pointer",
@@ -186,7 +186,7 @@
             "objectId": "QkhFbicCt3",
             "photo": {
                 "__type": "File",
-                "name": "Zomato-Chennai-Offer.jpg"
+                "name": "offers5.PNG"
             },
 			"restaurant": {
 				"__type": "Pointer",
