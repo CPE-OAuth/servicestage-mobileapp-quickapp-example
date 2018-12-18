@@ -1,4 +1,4 @@
-## Step 9:  (Optional) Run Mobile App in Emulator
+## Step 8:  (Optional) Run Mobile App in Emulator
 
 After you successfully setup emulator in Android studio. Follow the instructions below to run QuickEats Mobile Backend Sample Application.
 
@@ -17,7 +17,7 @@ After you successfully setup emulator in Android studio. Follow the instructions
    Here is the emulator with the apks installed.  
 ![s9b](./imgs/s9b.jpg)
 
-4.	Copy QuickEats Sample Application rpk file in Step 7 to emulator. You can use the public file storage service, such as Huawei Object Storage, to transfer this file to emulator.
+4.	Copy QuickEats Sample Application rpk file in Step 7 to emulator. You can use the public file storage service, such as Huawei Object Storage or drag and drop the file(It will copy file to /sdcard/Download), to transfer this file to emulator.
 
 5.	In emulator launch QuickApp Debugger.  
 ![s9c](./imgs/s9c.jpg)

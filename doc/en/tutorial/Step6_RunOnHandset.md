@@ -1,4 +1,4 @@
-## Step 7:  Run Mobile App in Handset
+## Step 6:  Run Mobile App in Handset
 
 To run the mobile application in the handset you need to install the Fast Application Debugger and Quick App Preview in your handset. Follow the instructions below to run the Mobile Application in Handset.
 

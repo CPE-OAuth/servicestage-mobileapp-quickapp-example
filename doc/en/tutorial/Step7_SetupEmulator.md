@@ -1,4 +1,4 @@
-## Step 8:  (Optional) Setup Android Studio Emulator
+## Step 7:  (Optional) Setup Android Studio Emulator
 
 We can also use an emulator (Android Virtual Device) from Android Studio to run the mobile application.  Firstly, you need to install Android Studio.
 
