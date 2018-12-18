@@ -6,7 +6,7 @@ After you successfully setup emulator in Android studio. Follow the instructions
 
 2.	 Find the Android SDK folder location from Tool -> SDK Manager.
 
-3.	In command prompt, go to {{path to}}\Android\Sdk\platform-tools, install the APKs with these commands:  
+3.	In command prompt, go to `{{path from previous step}}\platform-tools`, install the APKs with these commands:  
 
 ```
    .\adb.exe install {{path to}}\quickapp_debugger.apk
