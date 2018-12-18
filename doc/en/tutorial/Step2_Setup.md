@@ -14,19 +14,12 @@ Node JS is a SDK / Programming Language used in this tutorial.   The version of 
 4.	After installation is completed, verify the installation by opening the Command Prompt.  Run 'node' and 'npm -v' to verify installation and version.  
 ![s2q](./imgs/s2b.png)  
 
-5.	(Optional)  Proxy setup.  Depending on the location of the laptop / desktop, proxy settings may be needed.  Run the following command to configure proxy.  Change the proxy host and port to your company proxy accordingly.  
+5.	(Optional)  Proxy setup.  Depending on the location of the laptop / desktop, proxy settings may be needed.  Edit `%USERPROFILE%/.npmrc` (i.e. `C:\Users\john\.npmrc`) and add the following lines: 
 
-```
-   npm config set proxy http://proxy.mycompany.com:8080
-   npm config set https-proxy http://proxy.mycompany.com:8080
-```
-
-Or use the below commands if id and password are required from proxy. If your password contains special characters, you will need to encode them, e.g. `#` will become `%23`
-
-```
-   npm config set proxy http://<user>:<password>@proxy.mycompany.com:8080
-   npm config set https-proxy http:// <user>:<password>@proxy.mycompany.com:8080
-```
+   ```
+   https-proxy = "http://<user>:<password>@proxy.mycompany.com:8080"
+   proxy = "http://<user>:<password>@proxy.mycompany.com:8080"
+   ```
 
 ***
 
