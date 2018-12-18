@@ -20,11 +20,11 @@ Follow the steps below to load a Quick App Mobile Application Sample from Github
 6.	After the installation, launch the IDE and click on File->open project. Select the project root folder to import the project into Fast App IDE.
 ![s3c.jpg](./imgs/s3c.jpg)
 
-   You may get Symantec Anti-virus warnings after installing the IDE. This message can be ignored.
+      You may get Symantec Anti-virus warnings after installing the IDE. This message can be ignored.
    
-   ![s3d.jpg](./imgs/s3d.jpg)
+      ![s3d.jpg](./imgs/s3d.jpg)
  
-   To know more details and features of Fast app IDE, please refer to [https://developer.huawei.com/consumer/cn/service/hms/doc/fastapp_fastapp_devtool1_guide.html](https://developer.huawei.com/consumer/cn/service/hms/doc/fastapp_fastapp_devtool1_guide.html)
+      To know more details and features of Fast app IDE, please refer to [https://developer.huawei.com/consumer/cn/service/hms/doc/fastapp_fastapp_devtool1_guide.html](https://developer.huawei.com/consumer/cn/service/hms/doc/fastapp_fastapp_devtool1_guide.html)
    
 7. In Fast Application IDE, on the top menu, use **Buid -> Run Build** to compile and build the project.
 
