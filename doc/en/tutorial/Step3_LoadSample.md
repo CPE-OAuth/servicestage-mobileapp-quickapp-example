@@ -12,12 +12,12 @@ Follow the steps below to load a Quick App Mobile Application Sample from Github
 ![s3a.png](./imgs/s3a.png)  
 
 
-4.	We used the Huawei fast Application IDE for development tool to quickly build a fast application development environment. To install IDE required to install node. Get the installation package from [https://developer.huawei.com/consumer/cn/service/hms/catalog/fastapp.html?page=fastapp_fastapp_devprepare_install_tool](https://developer.huawei.com/consumer/cn/service/hms/catalog/fastapp.html?page=fastapp_fastapp_devprepare_install_tool) 
+4.	We will use the Huawei fast Application IDE to quickly build a fast application development environment. The IDE can be install from: [https://developer.huawei.com/consumer/cn/service/hms/catalog/fastapp.html?page=fastapp_fastapp_devprepare_install_tool](https://developer.huawei.com/consumer/cn/service/hms/catalog/fastapp.html?page=fastapp_fastapp_devprepare_install_tool) 
 ![s3b.png](./imgs/s3b.png)
 
 5.	For Win64: Click DevecoFastAppIDE-V1.1.8-Win64.exe to install.
 
-6.	After the installation, launch the IDE and click on File->open project. Select the project root folder to import the project into Fast App IDE.
+6.	After the installation, launch the IDE and click on `File->Open` project. Select the project root folder to import the project into Fast App IDE.
 ![s3c.jpg](./imgs/s3c.jpg)
 
    You may get Symantec Anti-virus warnings after installing the IDE. This message can be ignored.
