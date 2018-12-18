@@ -7,13 +7,11 @@ You have the Mobile Application described in this tutorial.  It is time to conne
 2.	Open the file `<path to>/servicestage-mobileapp-quickapp-example/src/common/pareutil.js`  
 ![s6a](./imgs/s6a.png)
 
-3.  Replace myAppID with your Mobile Backend’s **appID** specified in Step 1. **The default values are demoAppId.**   
-
-4.  Replace the host name of your Mobile Backend.  
+3.  Replace the value of `appID` with the application id you selected in Step 1. Also replace the value of `server_URL`, this value can be found in the ServiceStage console, it will likely be `http://<app id>.cn-north-1.huaweicse.com` 
 ![s6b](./imgs/s6b.png)  
 
-5.  Save the file.  
+4.  Save the file.  
 
-6.  Go to Fast Application IDE, use **Build -> Run Build** to rebuild the project.
+5.  Go to Fast Application IDE, use **Build -> Run Build** to rebuild the project.
 
   
