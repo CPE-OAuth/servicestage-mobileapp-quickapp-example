@@ -2,7 +2,7 @@
 
 After you successfully setup emulator in Android studio. Follow the instructions below to run QuickEats Mobile Backend Sample Application.
 
-1.	Download the Fast Application Debugger (quickapp_debugger.apk) and QuickApp Preview (quickapp_platform_preview_release_v1030.apk) from Step 7.
+1.	Download the Fast Application Debugger (quickapp_debugger.apk) and QuickApp Preview (quickapp_platform_preview_release_v1030.apk) from Step 6 (if you skipped it, just follow the first two steps).
 
 2.	 Find the Android SDK folder location from Tool -> SDK Manager.
 
