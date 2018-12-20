@@ -19,8 +19,8 @@ import prompt from '@system.prompt';
 import storage from '@system.storage';
 
 
-
-var server_URL="myHost";
+var hostName="myHost";
+var server_URL="http://"+hostName+"/mbaas";
 var appID = "myAppId";
 
 export default {
