@@ -78,5 +78,14 @@ At the Windows Start Menu, search "Advance system settings", then click "Environ
 10.	 Here is how the emulator looks like.  
 ![s8e](./imgs/s8e.jpg)
 
-11.	Setup proxy for emulator so that the mobile applications can access the internet. Click on **…** in vertical bar to open up **Extended Controls**. Go to **Settings -> Proxy** to setup proxy:  
+11. If your computer is behind Huawei Proxy, emulator is having issue in using Huawei Proxy. So you need to install CNTLM Proxy in your computer. 
+  
+    Download CNTLM Proxy from [this site](https://sourceforge.net/projects/cntlm/files/).
+  
+    Follow [this instruction](https://gist.github.com/goude/edecda33699fcad5d66e) to setup CNTLM Proxy in your computer.
+
+12.	Setup emulator to use proxy in order to access the internet. Click on **…** in vertical bar to open up **Extended Controls**. Go to **Settings -> Proxy** to setup proxy.
+
+**Note: If you are using CNTLM Proxy, Host name must be 127.0.0.1**
+
 ![s8f](./imgs/s8f.jpg)
