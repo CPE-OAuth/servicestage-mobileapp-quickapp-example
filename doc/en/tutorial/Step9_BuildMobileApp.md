@@ -11,9 +11,9 @@ Here are some of the key files / folders in the sample,
 ![s5b](./imgs/s5b.png)
 
 * Common directory is a common resource file and component file. Each page directory stores the resource files and component files of the respective pages, such as images, CSS, JS, etc.
-* Manifest file, located at <rootdir>/src/manifest.json, describes essential information about your app like application descriptions, interface declarations, page routing(in ìrouterî) and configuration related to the UI display(ìdisplayî). 
+* Manifest file, located at <rootdir>/src/manifest.json, describes essential information about your app like application descriptions, interface declarations, page routing(in ‚Äúrouter‚Äù) and configuration related to the UI display(‚Äúdisplay‚Äù). 
 
-You can configure the appís Home page (which opens as the main screen when the mobile app launches) in the manifest file.
+You can configure the app‚Äôs Home page (which opens as the main screen when the mobile app launches) in the manifest file.
 In the sample <rootdir>/src/Login is the home page, configured in manifest. json as below.  
 ![s5c](./imgs/s5c.png)
 
@@ -29,7 +29,7 @@ The sample app contains the following pages:  Login, Signup, About, Restaurants,
 ![s5e](./imgs/s5e.png)
 
 Parse rest apis used to connect to Mobile Backend from the sample app. Configure required host and app id to connect and query data from Mobile backend. Sample restaurants query code is as shown below.  
-![s5f](./imgs/s5f.png)
+![s5f](./imgs/s5f.PNG)
 
   
   
