@@ -17,6 +17,7 @@ To run the mobile application in the handset you need to install the Fast Applic
 ![s7d](./imgs/s7d.png)
    
 4.	Copy the rpk file to the handset which you have generated as per the instructions in step 3, to install the rpk package using the debugger.
+
 ![s7e](./imgs/s7e.png)
 
 5.	Open the debugger and Select INSTALL WITH FILE  option from the debugger menu and click on the the copied rpk file to install the app.  
