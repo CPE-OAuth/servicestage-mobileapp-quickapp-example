@@ -25,6 +25,6 @@ To run the mobile application in the handset you need to install the Fast Applic
 ![s7g](./imgs/s7g.png)
 
    After the installation is successful, app will be launched as below. If not, you can launch the app from Quick App Preview.  
-![s7h](./imgs/s7h.png)  
+![s7h](./imgs/s9d.png)  
 
 6.	Click Signup to create new account and follow the instructions to login.
