@@ -7,10 +7,10 @@ You have the Mobile Application described in this tutorial.  It is time to conne
 2.	Open the file `<path to>/servicestage-mobileapp-quickapp-example/src/common/pareutil.js`  
 ![s6a](./imgs/s6a.png)
 
-3.  Replace the value of `appID` with the application id you selected in Step 1. Also replace the value of `hostName`, this value can be found in the ServiceStage console, it will likely be `http://<app id>.cn-north-1.huaweicse.com` 
+3.  Replace the value of `appID` with the application id you selected in Step 1. Also replace the value of `hostName`, this value can be found in the ServiceStage console, it will likely be `http://<app name>.cn-north-1.huaweicse.com` 
 
 ```
-  var hostName="mymbaas.cn-north-1.proapp.today";
+  var hostName="mymbaas.cn-north-1.huaweicse.com";
   var server_URL="http://"+hostName+"/mbaas";
   var appID = "myAppId";
 ```
