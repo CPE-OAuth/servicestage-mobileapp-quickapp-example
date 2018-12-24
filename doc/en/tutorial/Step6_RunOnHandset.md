@@ -8,7 +8,7 @@ To run the mobile application in the handset you need to install the Fast Applic
 2.	Quick App Preview is a runtime platform to run the quick app applications in handset. Download and install the platform APK from [https://www.quickapp.cn/docCenter/post/69](https://www.quickapp.cn/docCenter/post/69). Follow the image to find the latest APK download url.  
 ![s7b](./imgs/s7b.png)
 
-   After copying the apk files to your handset, Click on the apk file install the apps.
+   After copying the apk files to your handset, Click on the apk files to install the apps.
    
 3.	After Installation of platform and debugger, open the debugger on your phone.  
 ![s7c](./imgs/s7c.jpg)
@@ -16,7 +16,7 @@ To run the mobile application in the handset you need to install the Fast Applic
    **Note:** If you can't click the button when you open the debugger, please upgrade your phone system to the latest version.  
 ![s7d](./imgs/s7d.png)
    
-4.	Copy the rpk file to the handset which you have generated as per the instructions in step 3, to install the rpk package using the debugger.
+4.	Copy the rpk file that you have generated as per the instructions in step 3 to the handset and install the rpk package using the debugger.  Some companies may have blocked USB file transfer.  Works with your company to find out the best way to transfer files to handset.  
 
 ![s7e](./imgs/s7e.png)
 
