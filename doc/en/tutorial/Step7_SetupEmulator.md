@@ -4,7 +4,7 @@ We can also use an emulator (Android Virtual Device) from Android Studio to run 
 
 ### Enable Virtualization in BIOS
 
-Android Studio emulator requires hardware acceleration.  It is done by enabling virtualization from the machineÃ¢â‚¬â„¢s BIOS.  
+Android Studio emulator requires hardware acceleration.  It is done by enabling virtualization from the machine's BIOS.  
 1.	Find out how to get into BIOS menu of your laptop or desktop.  It usually involvse rebooting the machine and pressing some function key(s), e.g. F2.  
 2.	Once inside the BIOS menu, look for "Virtualization Support",  Enable them.
 
