@@ -78,7 +78,7 @@ At the Windows Start Menu, search "Advance system settings", then click "Environ
 10.	 Here is how the emulator looks like.  
 ![s8e](./imgs/s8e.jpg)
 
-11. If your computer is behind Huawei Proxy, emulator is having issue in using Huawei Proxy. So you need to install CNTLM Proxy in your computer. 
+11. If your computer is behind proxy, you need to setup a local HTTP Proxy in your computer. 
   
     Download CNTLM Proxy from [this site](https://sourceforge.net/projects/cntlm/files/).
   
