@@ -86,6 +86,6 @@ At the Windows Start Menu, search "Advance system settings", then click "Environ
 
 12.	Setup emulator to use proxy in order to access the internet. Click on **…** in vertical bar to open up **Extended Controls**. Go to **Settings -> Proxy** to setup proxy.
 
-**Note: If you are using CNTLM Proxy, Host name must be 127.0.0.1**
+**Note: If you are using CNTLM Proxy, Host name is 127.0.0.1**
 
 ![s8f](./imgs/s8f.jpg)
