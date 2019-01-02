@@ -2,18 +2,26 @@
 
 Follow the steps below to create a Mobile Backend service in the Huawei Public Cloud,
 
-1.  Open a browser and go to Service Stage.  Login using Huawei account if needed. [https://console.huaweicloud.com/servicestage/?region=cn-north-1#/apps/webapp/new/create?template=mbaas](https://console.huaweicloud.com/servicestage/?region=cn-north-1#/apps/webapp/new/create?template=mbaas)  
+1.  Open a browser and go to Service Stage.  Login using Huawei account if needed. [https://www.huaweicloud.com/en-us/product/servicestage.html](https://www.huaweicloud.com/en-us/product/servicestage.html)  
 
-2.  Fill in a unique **Application Name**, an **Application Id** and a **Master Key**.  Check the checkbox to confirm if your application meet the legal requirement, Click **Next**.  
+2. Click on **Access Console** to go to Service Stage Console page.
+
+3. In the Console page, go to **App Management** -> **All Applications** page.  
+![s1f](./imgs/s1f.png)
+
+4. Click on **Create Application**, find the Mobile Application panel, click on it to go to provision page.  
+![s1e](./imgs/s1e.png)
+
+5.  Fill in a unique **Application Name**, an **Application Id** and a **Master Key**.  Check the checkbox to confirm if your application meet the legal requirement, Click **Next**.  
 ![s1a](./imgs/s1a.png)
 
-3.	Select your **CCE cluster** and **Load Balancer** for deployment.  
+6.	Select your **CCE cluster** and **Load Balancer** for deployment.  
 ![s1b](./imgs/s1b.png)
 
-4.	Create or select and existing **PostgreSQL 9.5.5** Service.  
+7.	Create or select and existing **PostgreSQL 9.5.5** Service.  
 ![s1c](./imgs/s1c.png)
 
-5.	Select a valid **Security Group** of the CCE cluster.  
+8.	Select a valid **Security Group** of the CCE cluster.  
 ![s1d](./imgs/s1d.png)
 
-6.	Click **Next** and click **Submit** in the next page to start creating Mobile Backend service.  
+9.	Click **Next** and click **Submit** in the next page to start creating Mobile Backend service.  
