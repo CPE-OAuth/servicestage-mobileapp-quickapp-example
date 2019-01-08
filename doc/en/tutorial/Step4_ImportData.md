@@ -4,7 +4,7 @@ The Mobile Application described in this tutorial needs sample data.  Use the Hu
 
 Follow the steps below to import sample data into Mobile Backend:  
 
-1.	In a web browser, launch the Mobile Backend Dashboard.  It was created previously in Step 1 along with the Mobile Backend.  Determine the Application URL of the Mobile Backend in Service Stage Console [https://console.huaweicloud.com/servicestage/?region=cn-north-1#/apps/list](https://console.huaweicloud.com/servicestage/?region=cn-north-1#/apps/list). **The url will contain the name you picked during provisioning, for example, http://johnsmbaas.cn-north-1.proapp.today.**  
+1.	In a web browser, launch the Mobile Backend Dashboard.  It was created previously in Step 1 along with the Mobile Backend.  Determine the Application URL of the Mobile Backend in Service Stage Console [https://console.huaweicloud.com/servicestage/?region=cn-north-1#/apps/list](https://console.huaweicloud.com/servicestage/?region=cn-north-1#/apps/list). **The url will contain the name you picked during provisioning, for example, http://johnsmbaas.cn-north-1.huaweicse.com.**  
 ![s4a](./imgs/s4a.jpg)  
 
 2.	To Login to Mobile Backend Dashboard, use the Application ID and Master Key specified in Step 1, during the Mobile Backend provision.  **The default values are demoAppId and demoMasterKey.** 
